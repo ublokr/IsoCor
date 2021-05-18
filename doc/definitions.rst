@@ -9,7 +9,7 @@ Isotopologues
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Molecular entities that differ only in their isotopic composition (number
-of isotopic substitutions), according to its IUPAC definition. It
+of isotopic substitutions), according to the IUPAC definition. It
 consists of isotopic forms that either:
 
 i. do not have the same isotopic
@@ -27,7 +27,7 @@ Tracer isotopologues
 
 Isotopologues that differ only in their isotopic composition (number
 of isotopic substitutions) of the tracer element (e.g. CH\ :sub:`3`\ NH\ :sub:`2`\ , CH\ :sub:`2`\ DNH\ :sub:`2`\  and CHD\ :sub:`2`\ NH\ :sub:`2`\  are considered as tracer
-isotopologues in a :sup:`2`\ H-labeling experiments). A molecular entity containing :math:`n` tracer atoms has :math:`n+1` tracer isotopologues.
+isotopologues in a :sup:`2`\ H-labeling experiment). A molecular entity containing :math:`n` tracer atoms has :math:`n+1` tracer isotopologues.
 Tracer isotopologues have different nominal masses, hence they can be distinguished both at low and high MS resolution.
 
 
@@ -37,7 +37,7 @@ Isotopic cluster
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Group of MS peaks that originate from a unique molecular entity, i.e. with the same elemental
-composition but different isotopic compositions, according to its IUPAC definition. A given peak of the
+composition but different isotopic compositions, according to the IUPAC definition. A given peak of the
 isotopic cluster typically contains several isotopologues. The number and the nature of isotopologues overlapped
 in each peak is determined only by the
 elemental formula of the molecule and the resolution of the MS analyzer. The intensity of each peak depends on the
@@ -71,7 +71,7 @@ Isotopologue distribution, obtained after correcting mass fractions for naturall
 Resolution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Resolution measures of the ability of the MS analyzer to distinguish two peaks of slightly different mass-to-charge ratios :math:`\delta(M)` in a mass spectrum.
+Resolution measures the ability of the MS analyzer to distinguish two peaks with slightly different mass-to-charge ratios :math:`\delta(M)` in a mass spectrum.
 It is classically described as a fixed  value of :math:`M/\delta(M)`  (the
 *nominal resolution*, defined as Full Width at Half
 Maximum (FWHM) at a particular m/z). In order for the isotopic peaks to be well separated, the mass difference should be greater than
